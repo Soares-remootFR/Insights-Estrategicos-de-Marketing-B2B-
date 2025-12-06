@@ -1,18 +1,22 @@
-Relatório de Insights Estratégicos de Marketing (B2B)
+📊 Relatório de Insights Estratégicos de Marketing (B2B)
 
 Este projeto de Business Intelligence apresenta um dashboard de Análise de Oportunidades de Marketing, desenvolvido para qualificar a base de clientes potenciais (B2B). O objetivo é cruzar dados de orçamento, estrutura interna e engajamento para identificar quais empresas têm maior propensão de compra e devem ser priorizadas pela equipa comercial.
 
 O painel oferece uma visão competitiva (Benchmarking) e uma ferramenta de priorização automática baseada em relacionamento prévio.
 
-📄 Visualização do Dashboard
+📸 Visualização do Dashboard
 
-Visão Geral: Indicadores e Segmentação de Mercado
+1. Visão Geral: Indicadores e Segmentação
 
-Abaixo, a tela principal que consolida o Lead Scoring, orçamentos e comportamento de consumo de conteúdo.
+Abaixo, a tela principal que consolida o Lead Scoring, orçamentos e comportamento de consumo.
 
-Detalhe: Matriz de Priorização Comercial
+(Substitua o caminho acima pela localização da sua imagem 1)
 
-Uma visão tabular detalhada para identificar "frutos baixos" (oportunidades imediatas).
+2. Detalhe: Matriz de Priorização Comercial
+
+Visão tabular detalhada para identificar oportunidades imediatas.
+
+(Substitua o caminho acima pela localização da sua imagem 2)
 
 🎯 Objetivos da Análise
 
@@ -26,94 +30,96 @@ Mapeamento de Influência: Estamos conectados com os decisores (Lideranças) des
 
 Potencial Financeiro: Qual o tamanho do bolso (Orçamento de Marketing) de cada prospect?
 
-📊 Detalhamento das Métricas e Visuais
-
-1. KPIs (Indicadores Chave de Desempenho)
+📈 Detalhamento das Métricas e KPIs
 
 Os cartões superiores funcionam como um filtro de qualidade da base analisada:
 
-Métrica Escolhida
+Métrica
 
-O que ela indica
+O que indica
 
-Direcionamento Estratégico (Tomada de Decisão)
+Direcionamento Estratégico
 
-% Empresas no Pipe Comercial
+% Empresas no Pipe
 
-A penetração atual da marca na base de prospects.
+Penetração atual da marca na base.
 
-Conversão: Define se o foco deve ser "caçar" novos clientes ou trabalhar a conversão dos que já estão no funil.
+Conversão: Define se o foco é "caçar" novos clientes ou trabalhar os atuais.
 
-Média de Leads por Empresa
+Média de Leads
 
-A eficiência da geração de contactos dentro de cada conta.
+Eficiência da geração de contatos.
 
-Account-Based Marketing (ABM): Se baixo, indica necessidade de campanhas hiper-personalizadas para penetrar na conta.
+ABM: Se baixo, exige campanhas personalizadas para entrar na conta.
 
-Média de Materiais Consumidos
+Materiais Consumidos
 
-O nível de educação e interesse do lead.
+Nível de educação do lead.
 
-Nutrição: Leads que consomem pouco conteúdo precisam de réguas de nutrição antes de uma abordagem de venda direta.
+Nutrição: Leads "frios" precisam de conteúdo educativo antes da venda.
 
-% Conectadas com Liderança
+% Conectadas (Liderança)
 
-A profundidade do networking com decisores.
+Profundidade do networking.
 
-Venda Consultiva: Contas com alta conexão devem ser abordadas por executivos seniores/diretores para alavancar o relacionamento.
+Venda Consultiva: Contas conectadas exigem abordagem de executivos seniores.
 
 Orçamento de Marketing
 
-O potencial de receita da conta (Wallet Share).
+Potencial de receita (Wallet Share).
 
-Priorização de Receita: Segregar o atendimento comercial, dedicando os melhores vendedores para as empresas com os maiores orçamentos declarados.
+Priorização: Dedicar os melhores vendedores para as contas mais ricas.
 
-2. Análise dos Gráficos e Insights
+🧠 Insights e Tomada de Decisão
 
 Cada visualização responde a uma pergunta tática sobre quem abordar e como abordar:
 
-Score por Empresas (Gráfico de Barras):
+🏆 Score por Empresas (Ranking)
 
-O que mostra: Um ranking das empresas baseado num modelo de pontuação (Lead Scoring).
+O que mostra: Ranking das empresas baseado no modelo de pontuação.
 
-Direcionamento: Foco da Força de Vendas. A equipa comercial deve começar as ligações pelas empresas do topo do gráfico, garantindo que o esforço seja gasto onde a probabilidade de fecho é maior.
+Ação: A equipe deve começar as ligações pelo topo da lista para garantir maior probabilidade de fechamento.
 
-Consumo de Materiais - Mercado vs. Macfor (Gráfico de Colunas Agrupadas):
+🆚 Mercado vs. Macfor (Benchmarking)
 
-O que mostra: Compara o quanto cada empresa consome de conteúdo do mercado em geral versus o conteúdo proprietário da agência/empresa.
+O que mostra: Comparativo de consumo de conteúdo (Mercado vs. Nossa Marca).
 
-Direcionamento: Share of Mind. Identifica Gaps de Atenção. Se uma empresa consome muito do mercado mas pouco da nossa marca, é um alvo claro para campanhas de Retargeting ou envio proativo de estudos de caso.
+Ação: Identificar Gaps de Atenção. Empresas que consomem muito do mercado e pouco da gente são alvos para Retargeting.
 
-Estrutura de Marketing (Gráfico de Colunas/Linhas):
+👥 Estrutura de Marketing
 
-O que mostra: A proporção entre equipa operacional e lideranças de marketing em cada cliente.
+O que mostra: Proporção entre equipe operacional e liderança.
 
-Direcionamento: Personalização do Pitch. Para empresas com muita liderança, o discurso deve ser estratégico/ROI. Para empresas com muita base operacional, o discurso deve focar em facilidade de uso e execução.
+Ação: Personalização do Pitch.
 
-Orçamento x Quantidade de Leads (Treemap):
+Muitas Lideranças: Foco em Estratégia e ROI.
 
-O que mostra: O tamanho da empresa (orçamento) versus o resultado atual (leads gerados).
+Muitos Operacionais: Foco em facilidade de uso e execução.
 
-Direcionamento: Otimização de Conta.
+💰 Orçamento x Leads (Matriz)
 
-Orçamento Alto + Poucos Leads: Oportunidade de ouro para oferecer otimização e eficiência.
+O que mostra: Tamanho da empresa versus resultado atual.
 
-Orçamento Alto + Muitos Leads: Cliente "Vaca Leiteira", foco em retenção e upsell.
+Ação:
 
-Tabela de Empresas Prioritárias (Imagem 2):
+Orçamento Alto + Poucos Leads: Vender otimização.
 
-O que mostra: Uma lista tática cruzando presença no funil com relacionamento executivo.
+Orçamento Alto + Muitos Leads: Foco em retenção e upsell.
 
-Direcionamento: Ação Imediata. As empresas marcadas em verde (Sim para Pipe + Sim para Conexão) são vendas de "caminho curto". A decisão é agendar reuniões imediatas alavancando o contacto já existente.
+✅ Tabela de Prioridades
+
+O que mostra: Cruzamento de presença no funil com relacionamento executivo.
+
+Ação: Empresas em destaque (Verde) são vendas de "caminho curto". Agendar reuniões imediatas.
 
 🛠️ Funcionalidades Técnicas
 
-Matriz de Priorização Condicional: A tabela utiliza formatação condicional para destacar visualmente (em verde) as oportunidades prioritárias, agilizando a leitura do vendedor.
+Matriz de Priorização Condicional: Uso de formatação condicional para destacar visualmente oportunidades quentes.
 
-Drill-Down de Dados: O painel permite aprofundar a visão macro (KPIs) para a visão micro (tabela detalhada por cliente).
+Drill-Down: Capacidade de aprofundar da visão macro (KPIs) para a visão micro (tabela detalhada).
 
 👤 Autor
 
 Projeto Desenvolvido por: Fábio R Soares
 
-Conecte-se no LinkedIn: linkedin.com/in/fábio-soares-ti
+linkedin.com/in/fábio-soares-ti
