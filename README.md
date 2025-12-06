@@ -31,15 +31,70 @@ Visão tabular detalhada para identificar oportunidades imediatas.
 
 5. Potencial Financeiro: Qual o tamanho do bolso (Orçamento de Marketing) de cada prospect?
 
-📈 Detalhamento das Métricas e KPIs
 
-Os cartões superiores funcionam como um filtro de qualidade da base analisada:
+🧠 Insights e Tomada de Decisão
 
-| :Métrica                  | O que indica                       | Direcionamento Estratégico                                                   |
-| :% Empresas no Pipe       | Penetração atual da marca na base. | Conversão: Define se o foco é "caçar" novos clientes ou trabalhar os atuais. |
-| :Média de Leads           | Eficiência da geração de contatos. | ABM: Se baixo, exige campanhas personalizadas para entrar na conta.          |
-| :Materiais Consumidos     | Nível de educação do lead.         | Nutrição: Leads "frios" precisam de conteúdo educativo antes da venda.       |
-| :% Conectadas (Liderança) | Profundidade do networking.        | Venda Consultiva: Contas conectadas exigem abordagem de executivos seniores. |
-| :Orçamento de Marketing   | Potencial de receita.              | Priorização: Dedicar os melhores vendedores para as contas mais ricas.       |
+Cada visualização responde a uma pergunta tática sobre quem abordar e como abordar:
+
+🏆 Score por Empresas (Ranking)
+
+1-O que mostra: Ranking das empresas baseado no modelo de pontuação.
+
+2-Ação: A equipe deve começar as ligações pelo topo da lista para garantir maior probabilidade de fechamento.
+
+🆚 Mercado vs. Macfor (Benchmarking)
+
+O que mostra: Comparativo de consumo de conteúdo (Mercado vs. Nossa Marca).
+
+  Ação: Identificar Gaps de Atenção. Empresas que consomem muito do mercado e pouco da gente são alvos para Retargeting.
+
+👥 Estrutura de Marketing
+
+  O que mostra: Proporção entre equipe operacional e liderança.
+
+  Ação: Personalização do Pitch.
+
+  Muitas Lideranças: Foco em Estratégia e ROI.
+
+  Muitos Operacionais: Foco em facilidade de uso e execução.
+
+💰 Orçamento x Leads (Matriz)
+
+  O que mostra: Tamanho da empresa versus resultado atual.
+
+Ação:
+
+  Orçamento Alto + Poucos Leads: Vender otimização.
+
+  Orçamento Alto + Muitos Leads: Foco em retenção e upsell.
+
+✅ Tabela de Prioridades
+
+  O que mostra: Cruzamento de presença no funil com relacionamento executivo.
+
+  Ação: Empresas em destaque (Verde) são vendas de "caminho curto". Agendar reuniões imediatas.
+
+🛠️ Funcionalidades Técnicas
+
+  Matriz de Priorização Condicional: Uso de formatação condicional para destacar visualmente oportunidades quentes.
+
+  Drill-Down: Capacidade de aprofundar da visão macro (KPIs) para a visão micro (tabela detalhada).
+
+👤 Autor
+
+Projeto Desenvolvido por: Fábio R Soares
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
