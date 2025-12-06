@@ -10,10 +10,8 @@ O painel oferece uma visão competitiva (Benchmarking) e uma ferramenta de prior
 
 Abaixo, a tela principal que consolida o Lead Scoring, orçamentos e comportamento de consumo.
 
+
 <img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src="https://github.com/Soares-remootFR/Insights-Estrategicos-de-Marketing-B2B-/blob/main/1.png" />
-
-
-("C:\Users\soares_remoot8285\OneDrive\Desktop\Portifolio Power BI\1.png")
 
 2. Detalhe: Matriz de Priorização Comercial
 
@@ -21,5 +19,27 @@ Visão tabular detalhada para identificar oportunidades imediatas.
 
 <img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src="https://github.com/Soares-remootFR/Insights-Estrategicos-de-Marketing-B2B-/blob/main/2.png" />
 
+🎯 Objetivos da Análise
 
-https://github.com/Soares-remootFR/Insights-Estrategicos-de-Marketing-B2B-/blob/main/1.png
+1. Este relatório foi desenhado para resolver dores comuns na prospecção B2B:
+
+2. Qualificação de Leads: Quais as empresas com maior "fit" (Score) para abordagem?
+
+3. Inteligência Competitiva: Como o consumo de materiais da nossa marca se compara com a média do mercado?
+
+4. Mapeamento de Influência: Estamos conectados com os decisores (Lideranças) dessas empresas?
+
+5. Potencial Financeiro: Qual o tamanho do bolso (Orçamento de Marketing) de cada prospect?
+
+📈 Detalhamento das Métricas e KPIs
+
+Os cartões superiores funcionam como um filtro de qualidade da base analisada:
+
+| :Métrica                  | O que indica                       | Direcionamento Estratégico                                                   |
+| :% Empresas no Pipe       | Penetração atual da marca na base. | Conversão: Define se o foco é "caçar" novos clientes ou trabalhar os atuais. |
+| :Média de Leads           | Eficiência da geração de contatos. | ABM: Se baixo, exige campanhas personalizadas para entrar na conta.          |
+| :Materiais Consumidos     | Nível de educação do lead.         | Nutrição: Leads "frios" precisam de conteúdo educativo antes da venda.       |
+| :% Conectadas (Liderança) | Profundidade do networking.        | Venda Consultiva: Contas conectadas exigem abordagem de executivos seniores. |
+| :Orçamento de Marketing   | Potencial de receita.              | Priorização: Dedicar os melhores vendedores para as contas mais ricas.       |
+
+
