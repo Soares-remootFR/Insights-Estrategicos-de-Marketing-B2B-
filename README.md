@@ -19,7 +19,7 @@ Abaixo, a tela principal que consolida o Lead Scoring, orçamentos e comportamen
 
 Visão tabular detalhada para identificar oportunidades imediatas.
 
-(Substitua o caminho acima pelo link da sua imagem)
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src="https://github.com/Soares-remootFR/Insights-Estrategicos-de-Marketing-B2B-/blob/main/2.png" />
 
 
 https://github.com/Soares-remootFR/Insights-Estrategicos-de-Marketing-B2B-/blob/main/1.png
