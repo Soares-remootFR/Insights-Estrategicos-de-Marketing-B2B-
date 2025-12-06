@@ -21,42 +21,42 @@ Visão tabular detalhada para identificar oportunidades imediatas.
 
 🎯 Objetivos da Análise
 
-1. Este relatório foi desenhado para resolver dores comuns na prospecção B2B:
+    Este relatório foi desenhado para resolver dores comuns na prospecção B2B:
 
-2. Qualificação de Leads: Quais as empresas com maior "fit" (Score) para abordagem?
+    Qualificação de Leads: Quais as empresas com maior "fit" (Score) para abordagem?
 
-3. Inteligência Competitiva: Como o consumo de materiais da nossa marca se compara com a média do mercado?
+    Inteligência Competitiva: Como o consumo de materiais da nossa marca se compara com a média do mercado?
 
-4. Mapeamento de Influência: Estamos conectados com os decisores (Lideranças) dessas empresas?
+    Mapeamento de Influência: Estamos conectados com os decisores (Lideranças) dessas empresas?
 
-5. Potencial Financeiro: Qual o tamanho do bolso (Orçamento de Marketing) de cada prospect?
+    Potencial Financeiro: Qual o tamanho do bolso (Orçamento de Marketing) de cada prospect?
 
 
 🧠 Insights e Tomada de Decisão
 
-Cada visualização responde a uma pergunta tática sobre quem abordar e como abordar:
+    Cada visualização responde a uma pergunta tática sobre quem abordar e como abordar:
 
 🏆 Score por Empresas (Ranking)
 
-1-O que mostra: Ranking das empresas baseado no modelo de pontuação.
+    O que mostra: Ranking das empresas baseado no modelo de pontuação.
 
-2-Ação: A equipe deve começar as ligações pelo topo da lista para garantir maior probabilidade de fechamento.
+    Ação: A equipe deve começar as ligações pelo topo da lista para garantir maior probabilidade de fechamento.
 
 🆚 Mercado vs. Macfor (Benchmarking)
 
-O que mostra: Comparativo de consumo de conteúdo (Mercado vs. Nossa Marca).
+    O que mostra: Comparativo de consumo de conteúdo (Mercado vs. Nossa Marca).
 
-  Ação: Identificar Gaps de Atenção. Empresas que consomem muito do mercado e pouco da gente são alvos para Retargeting.
+    Ação: Identificar Gaps de Atenção. Empresas que consomem muito do mercado e pouco da gente são alvos para Retargeting.
 
 👥 Estrutura de Marketing
 
-  O que mostra: Proporção entre equipe operacional e liderança.
+    O que mostra: Proporção entre equipe operacional e liderança.
 
-  Ação: Personalização do Pitch.
+    Ação: Personalização do Pitch.
 
-  Muitas Lideranças: Foco em Estratégia e ROI.
+    Muitas Lideranças: Foco em Estratégia e ROI.
 
-  Muitos Operacionais: Foco em facilidade de uso e execução.
+    Muitos Operacionais: Foco em facilidade de uso e execução.
 
 💰 Orçamento x Leads (Matriz)
 
@@ -64,21 +64,27 @@ O que mostra: Comparativo de consumo de conteúdo (Mercado vs. Nossa Marca).
 
 Ação:
 
-  Orçamento Alto + Poucos Leads: Vender otimização.
+    Orçamento Alto + Poucos Leads: Vender otimização.
 
-  Orçamento Alto + Muitos Leads: Foco em retenção e upsell.
+    Orçamento Alto + Muitos Leads: Foco em retenção e upsell.
 
 ✅ Tabela de Prioridades
 
-  O que mostra: Cruzamento de presença no funil com relacionamento executivo.
-
-  Ação: Empresas em destaque (Verde) são vendas de "caminho curto". Agendar reuniões imediatas.
+  O que mostra: 
+  
+    Cruzamento de presença no funil com relacionamento executivo.
+    
+    Empresas em destaque (Verde) são vendas de "caminho curto".
+    
+    Ação: 
+    
+    Agendar reuniões imediatas.
 
 🛠️ Funcionalidades Técnicas
 
-  Matriz de Priorização Condicional: Uso de formatação condicional para destacar visualmente oportunidades quentes.
+    Matriz de Priorização Condicional: Uso de formatação condicional para destacar visualmente oportunidades quentes.
 
-  Drill-Down: Capacidade de aprofundar da visão macro (KPIs) para a visão micro (tabela detalhada).
+    Drill-Down: Capacidade de aprofundar da visão macro (KPIs) para a visão micro (tabela detalhada).
 
 👤 Autor
 
