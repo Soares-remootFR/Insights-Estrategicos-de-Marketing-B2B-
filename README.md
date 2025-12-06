@@ -10,7 +10,7 @@ O painel oferece uma visão competitiva (Benchmarking) e uma ferramenta de prior
 
 Abaixo, a tela principal que consolida o Lead Scoring, orçamentos e comportamento de consumo.
 
-<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src="(https://github.com/Soares-remootFR/Insights-Estrategicos-de-Marketing-B2B-/blob/main/1.png)" />
+("C:\Users\soares_remoot8285\OneDrive\Desktop\Portifolio Power BI\1.png")
 
 2. Detalhe: Matriz de Priorização Comercial
 
